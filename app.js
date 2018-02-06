@@ -37,4 +37,3 @@ App({
     userInfo: null
   }
 })
-
